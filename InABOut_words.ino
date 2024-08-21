@@ -1,3 +1,4 @@
+//Set 1M sample and 50 KHz BW
 void setup() {
   // Start serial communication at 9600 baud rate
   Serial.begin(9600);
